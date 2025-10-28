@@ -18,16 +18,15 @@ I build digital-first brands that stand out with:
 ---
 
 ### 🔗 Connect with Me
-- 🌐 Website: *Coming Soon*
+- 🌐 Website: https://fezify.in
 - 💼 LinkedIn: www.linkedin.com/in/shaikh-faizaan-basir-075043336
 - 📞 WhatsApp: +91 7978392563
 - 📩 Email: fezify19@gmail.com
-- 🖼️ Portfolio: *To be added*
-
+- 🖼️ Portfolio: https://fezify.in/portfolio-affordable-web-development
 ---
 
 ### ⚒️ Tools & Tech
-HTML • CSS • JavaScript • WordPress • Shopify • SEO • Figma
+HTML • CSS • JavaScript • WordPress • SEO 
 
 ---
 
